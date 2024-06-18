@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Projects/source/glfw-3.4/tests/CMakeLists.txt
+  msaa.c
+  getopt.c
+  Generating Code...
+  msaa.vcxproj -> C:\Projects\source\GLFW 3.4\tests\Debug\msaa.exe

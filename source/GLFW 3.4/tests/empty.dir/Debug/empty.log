@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Projects/source/glfw-3.4/tests/CMakeLists.txt
+  empty.c
+  tinycthread.c
+  Generating Code...
+  empty.vcxproj -> C:\Projects\source\GLFW 3.4\tests\Debug\empty.exe

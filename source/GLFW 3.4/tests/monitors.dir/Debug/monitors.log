@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Projects/source/glfw-3.4/tests/CMakeLists.txt
+  monitors.c
+  getopt.c
+  Generating Code...
+  monitors.vcxproj -> C:\Projects\source\GLFW 3.4\tests\Debug\monitors.exe
