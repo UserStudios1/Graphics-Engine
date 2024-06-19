@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{1378C47D-A433-46E5-9B2D-1E61C3C7A9EB}|Graphics Engine.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1378C47D-A433-46E5-9B2D-1E61C3C7A9EB}|Graphics Engine.vcxproj|C:\\Projects\\Graphics Engine\\fragmentShader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{1378C47D-A433-46E5-9B2D-1E61C3C7A9EB}|Graphics Engine.vcxproj|solutionrelative:fragmentShader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1378C47D-A433-46E5-9B2D-1E61C3C7A9EB}|Graphics Engine.vcxproj|C:\\Projects\\Graphics Engine\\vertexShader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{1378C47D-A433-46E5-9B2D-1E61C3C7A9EB}|Graphics Engine.vcxproj|solutionrelative:vertexShader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1378C47D-A433-46E5-9B2D-1E61C3C7A9EB}|Graphics Engine.vcxproj|C:\\Projects\\Graphics Engine\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1378C47D-A433-46E5-9B2D-1E61C3C7A9EB}|Graphics Engine.vcxproj|solutionrelative:Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1378C47D-A433-46E5-9B2D-1E61C3C7A9EB}|Graphics Engine.vcxproj|C:\\Projects\\Graphics Engine\\fragmentShader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1378C47D-A433-46E5-9B2D-1E61C3C7A9EB}|Graphics Engine.vcxproj|solutionrelative:fragmentShader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +26,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Shader.h",
+              "DocumentMoniker": "C:\\Projects\\Graphics Engine\\Shader.h",
+              "RelativeDocumentMoniker": "Shader.h",
+              "ToolTip": "C:\\Projects\\Graphics Engine\\Shader.h",
+              "RelativeToolTip": "Shader.h",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAkwEUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-19T17:58:31.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "fragmentShader.fs",
               "DocumentMoniker": "C:\\Projects\\Graphics Engine\\fragmentShader.fs",
               "RelativeDocumentMoniker": "fragmentShader.fs",
               "ToolTip": "C:\\Projects\\Graphics Engine\\fragmentShader.fs",
               "RelativeToolTip": "fragmentShader.fs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-18T18:43:58.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T18:43:58.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "vertexShader.vs",
               "DocumentMoniker": "C:\\Projects\\Graphics Engine\\vertexShader.vs",
               "RelativeDocumentMoniker": "vertexShader.vs",
               "ToolTip": "C:\\Projects\\Graphics Engine\\vertexShader.vs",
               "RelativeToolTip": "vertexShader.vs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-06-18T18:43:45.205Z",
               "EditorCaption": ""
@@ -58,7 +74,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Projects\\Graphics Engine\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAkwGsAAAAAAAAA",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAuwNUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-18T13:36:22.938Z",
               "EditorCaption": ""
