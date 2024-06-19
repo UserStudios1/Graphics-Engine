@@ -1,2 +1,3 @@
 ﻿  main.cpp
+C:\Projects\Graphics Engine\main.cpp(213,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   Graphics Engine.vcxproj -> C:\Projects\Graphics Engine\x64\Debug\Graphics Engine.exe
